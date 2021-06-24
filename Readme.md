@@ -140,13 +140,18 @@ Alternatively, you can reach me on any of my socials listed below.
 ## **General GitHub Stats**
 </br>
 
-<a style="padding: 0px 30px 30px 0px" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=newb-dev-1008&count_private=true&show_icons=true&theme=merko" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="padding: 0px 0px 30px 0px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newb-dev-1008&count_private=true&show_icons=true&theme=merko&hide=purebasic&layout=compact" />
-</a>
+<p align="center">
+    <span style="padding: 0px 45px 30px 0px">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=newb-dev-1008&count_private=true&show_icons=true&theme=merko" />
+        </a>
+    </span>
+    <span style="padding: 20px 0px 30px 0px">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newb-dev-1008&count_private=true&show_icons=true&theme=merko&hide=purebasic&layout=compact" />
+    </a>
+    </span>
+</p>
 </br></br>
 
 <p align="center">
