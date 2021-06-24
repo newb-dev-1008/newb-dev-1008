@@ -36,7 +36,7 @@ Alternatively, you can reach me on any of my socials listed below.
 
 <p align="center">
     <a href="https://twitter.com/YashUmale1">
-        <img style = "padding: 0px 30px 0px 10px;" src = "Icons/Socials/Twitter.png" alt = "Twitter" width = "48"/>
+        <img style = "margin: 0px 30px 0px 10px;" src = "Icons/Socials/Twitter.png" alt = "Twitter" width = "48"/>
     </a>
     <a href="https://www.instagram.com/yashumale">
         <img style = "padding: 0px 30px 0px 0px;" src = "Icons/Socials/Instagram.png" alt = "Instagram" width = "48"/>
@@ -63,7 +63,6 @@ Alternatively, you can reach me on any of my socials listed below.
 <br/>
 
 <hr>
-<br/>
 
 ## **Languages, Tools and Frameworks**
 <br/>
@@ -137,7 +136,6 @@ Alternatively, you can reach me on any of my socials listed below.
 </br>
 
 <hr>
-</br>
 
 ## **General GitHub Stats**
 </br>
