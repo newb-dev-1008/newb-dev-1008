@@ -51,7 +51,7 @@ Alternatively, you can reach me on any of my socials listed below.
         <img style = "padding: 0px 30px 0px 0px;" src = "Icons/Socials/Discord.png" alt = "Discord" width = "49"/>
     </a>
     <a href="https://medium.com/@yashumale223">
-        <img style = "padding: 0px 30px 0px 0px;" src = "Icons/Socials/Medium.png" alt = "Discord" width = "48"/>
+        <img style = "padding: 0px 30px 0px 0px;" src = "Icons/Socials/Medium.png" alt = "Medium" width = "48"/>
     </a>
     <a href="https://t.me/yashumale223">
         <img style = "padding: 0px 30px 0px 0px;" src = "Icons/Socials/Telegram.png" alt = "Telegram" width = "48"/>
@@ -140,18 +140,18 @@ Alternatively, you can reach me on any of my socials listed below.
 ## **General GitHub Stats**
 </br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="padding: 0px 30px 30px 0px" align="center" src="https://github-readme-stats.vercel.app/api?username=newb-dev-1008&count_private=true&show_icons=true&theme=merko" />
+<a style="padding: 0px 30px 30px 0px" href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=newb-dev-1008&count_private=true&show_icons=true&theme=merko" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img style="padding: 0px 0px 30px 0px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newb-dev-1008&count_private=true&show_icons=true&theme=merko&hide=purebasic&layout=compact" />
 </a>
-</br>
+</br></br>
 
 <p align="center">
     <a href="https://git.io/streak-stats">
-    <img style="padding: 30px 0px 0px 0px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=newb-dev-1008&theme=dark" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=newb-dev-1008&theme=dark" />
     </a>
 <p>
 
