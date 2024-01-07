@@ -2,32 +2,30 @@
 
 ![](https://komarev.com/ghpvc/?username=newb-dev-1008&color=green&label=Profile+Visits)
 
-I'm an Electronics undergrad currently in my final year, and I have over 1.5 years of experience in building robust Android apps and Deep Learning models. When I'm not playing the enthusiastic developer or researching on the fundamentals behind neural networks and GANs, I spend my time reading novels, playing the guitar or gaming.
+I am a Deep Learning enthusiast with a flair for CV research, currently working as an Embedded Software Engineer at Caterpillar Inc. where I develop libraries and machine software for Transmission modules in Caterpillar's wheel loaders and large mining trucks. I also work with the Autonomy & Automation division to enhance productivity of remotely controlled fleets and predict system faults based on health parameters. 
+
+I believe Computer Vision has the potential to solve a multitude of problems faced on a daily basis, with applications ranging from traffic regulation to detecting tumours. I aim to build quality solutions, compliant with real-world scenarios while running these technologies under the hood. My interests lie in understanding complex architectures and techniques for video and image processing, to subsequently implement condensed models that can run with low compute resources and inputs from edge devices.
+
+I also have over 1.5 years of experience in building robust Android apps. When I'm not around my laptop, I spend my time reading novels, playing basketball or learning the guitar. 
 <br/>
 
 ## **My work, on and off GitHub**
 
 ### **Currently active repositories:**
 1. [Human PokeDex](https://github.com/newb-dev-1008/Human-PokeDex) 
-1. [Pattern Recognition and Algorithms](https://github.com/newb-dev-1008/Pattern-Recognition-Stuff)
-1. [Assistive Tech for the Blind](https://github.com/newb-dev-1008/Blind-Object-Detection)
+1. [Employee Management System](https://github.com/newb-dev-1008/Pattern-Recognition-Stuff)
+1. [Git Photos](https://github.com/newb-dev-1008/Git-Photos)
 
-### **Want to collaborate? Find some open issues on these repositories:**
-1. [Human PokeDex](https://github.com/newb-dev-1008/Human-PokeDex) 
-1. [Scholastic](https://github.com/newb-dev-1008/Scholastic)
-1. [CollegeLancer](https://github.com/newb-dev-1008/CollegeLancer_App)
-
-### **Check out my (geeky + muggle) interests:**
+### **My interests:**
+1. Deep Learning and Neural Networks
 1. Android App Development
-1. Deep Learning and Neural Networks 
-1. Computer Vision 
-1. VLSI Design, ARM and HDL
+1. Computer Vision
 1. Playing the guitar and taking part in pop quizzes
 
 ### **I'm currently learning more about [GANs](https://machinelearningmastery.com/what-are-generative-adversarial-networks-gans/) and [AWS](https://aws.amazon.com/).**
 
 ### **Want to reach out?**
-If you'd like me to answer your queries, work on your projects, debate about whether pineapple belongs on pizza or just say hi, hit me up on [my e-mail](mailto:yashumale223@gmail.com).\
+If you'd like to collaborate on projects or papers, debate about whether pineapple belongs on pizza or just say hi, hit me up on [my e-mail](mailto:yashumale223@gmail.com).\
 Alternatively, you can reach me on any of my socials listed below.
 <br/>
 
@@ -164,4 +162,4 @@ Alternatively, you can reach me on any of my socials listed below.
 
 <hr>
 
-### **Last updated on:** 24th June, 2021.
+### **Last updated on:** 7th January, 2024.
