@@ -4,7 +4,7 @@
 
 I am a Deep Learning enthusiast with a flair for CV research, currently working as an Embedded Software Engineer at Caterpillar Inc. where I develop libraries and machine software for Transmission modules in Caterpillar's wheel loaders and large mining trucks. I also work with the Autonomy & Automation division to enhance productivity of remotely controlled fleets and predict system faults based on health parameters. 
 
-I believe Computer Vision has the potential to solve a multitude of problems faced on a daily basis, with applications ranging from traffic regulation to detecting tumours. I aim to build quality solutions, compliant with real-world scenarios while running these technologies under the hood. My interests lie in understanding complex architectures and techniques for video and image processing, to subsequently implement condensed models that can run with low compute resources and inputs from edge devices.
+I believe Computer Vision has the potential to solve a multitude of routine problems, with applications ranging from traffic regulation to detecting tumours. I aim to build quality solutions, compliant with real-world scenarios while running these technologies under the hood. My interests lie in understanding complex architectures and techniques for video and image processing, to subsequently implement condensed models that can run with low compute resources and inputs from edge devices.
 
 I also have over 1.5 years of experience in building robust Android apps. When I'm not around my laptop, I spend my time reading novels, playing basketball or learning the guitar. 
 <br/>
@@ -13,7 +13,7 @@ I also have over 1.5 years of experience in building robust Android apps. When I
 
 ### **Currently active repositories:**
 1. [Human PokeDex](https://github.com/newb-dev-1008/Human-PokeDex) 
-1. [Employee Management System](https://github.com/newb-dev-1008/Pattern-Recognition-Stuff)
+1. [Employee Management System](https://github.com/newb-dev-1008/Employee-Management-System)
 1. [Git Photos](https://github.com/newb-dev-1008/Git-Photos)
 
 ### **My interests:**
