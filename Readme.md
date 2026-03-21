@@ -2,11 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=newb-dev-1008&color=green&label=Profile+Visits)
 
-I am a Deep Learning enthusiast with a flair for CV research, currently working as an Embedded Software Engineer at Caterpillar Inc. where I develop libraries and machine software for Transmission modules in Caterpillar's wheel loaders and large mining trucks. I also work with the Autonomy & Automation division to enhance productivity of remotely controlled fleets and predict system faults based on health parameters. 
+I'm an Embedded Software Engineer at Caterpillar Inc., where I develop libraries and software for Transmission modules in Caterpillar machines. I'm also a Deep Learning enthusiast, working with CV as a side hobby.
 
-I believe Computer Vision has the potential to solve a multitude of routine problems, with applications ranging from traffic regulation to detecting tumours. I aim to build quality solutions, compliant with real-world scenarios while running these technologies under the hood. My interests lie in understanding complex architectures and techniques for video and image processing, to subsequently implement condensed models that can run with low compute resources and inputs from edge devices.
-
-I also have over 1.5 years of experience in building robust Android apps. When I'm not around my laptop, I spend my time reading novels, playing basketball or learning the guitar. 
+I also have over 2 years of experience in building Android apps. When I'm not around my laptop, I spend my time reading novels, playing basketball or learning the guitar. 
 <br/>
 
 ## **My work, on and off GitHub**
@@ -20,7 +18,6 @@ I also have over 1.5 years of experience in building robust Android apps. When I
 1. Deep Learning and Neural Networks
 1. Android App Development
 1. Computer Vision
-1. Playing the guitar and taking part in pop quizzes
 
 ### **I'm currently learning more about [GANs](https://machinelearningmastery.com/what-are-generative-adversarial-networks-gans/) and [AWS](https://aws.amazon.com/).**
 
